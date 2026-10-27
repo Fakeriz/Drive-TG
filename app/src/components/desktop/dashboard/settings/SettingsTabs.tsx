@@ -16,7 +16,6 @@ import {
   type SettingsSyncStatus,
 } from '../../../../services/settingsSync';
 import i18n from '../../../../i18n';
-import { LazyFeatureBoundary } from '../../../shared/LazyFeatureBoundary';
 
 
 const tabMotion = {
